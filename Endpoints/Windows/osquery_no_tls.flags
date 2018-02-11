@@ -4,5 +4,5 @@
 --disable_tables=windows_events
 --host_identifier=hostname
 --logger_min_status=1
---logger_plugin=filesystem
+--logger_plugin=windows_event_log 
 --verbose=true
